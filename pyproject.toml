@@ -1,0 +1,20 @@
+[project]
+name = "support-article-ranking"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "lxml>=6.1.1",
+    "nltk>=3.10.0",
+    "numpy>=2.5.1",
+    "pandas>=3.0.3",
+    "pyarrow>=25.0.0",
+    "rank-bm25>=0.2.2",
+    "scikit-learn>=1.9.0",
+    "stop-words>=2025.11.4",
+    "torch>=2.13.0",
+]
